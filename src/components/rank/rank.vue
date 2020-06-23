@@ -1,5 +1,5 @@
 <template>
-  <div></div>
+  <div>排名</div>
 </template>
 
 <script type="text/ecmascript-6">
